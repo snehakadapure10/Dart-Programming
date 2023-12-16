@@ -1,0 +1,7 @@
+void main() {
+  print("hello world");
+  print("this is first application");
+  print(4-2);
+  print(4*3);
+  print(4/2);
+}
