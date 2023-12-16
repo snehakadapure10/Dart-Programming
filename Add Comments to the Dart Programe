@@ -1,0 +1,9 @@
+void main() {
+  //This is my first ine of code
+  print("hello world");
+  print("this is first application"); //This is another comment
+  print(4-2); //Performing arithemathic operation
+  print(4*3);
+  print(4/2);
+  print("false"); //Performimg Boolean operation
+}
